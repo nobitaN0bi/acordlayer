@@ -1,12 +1,12 @@
-# Test_Synergy_Agent
+# Browsertestagent
 
-Testing the bridge
+
 
 ## Overview
 
 This agent was automatically generated using the ADK Agent Generator.
 
-**Main Agent**: agent1
+**Main Agent**: my_agent
 **Version**: 1.0.0
 
 ## Setup
@@ -30,7 +30,7 @@ This agent was automatically generated using the ADK Agent Generator.
 ## Architecture
 
 ### Agents
-- **agent1** (AgentType.LLM_AGENT): A test agent
+- **my_agent** (AgentType.LLM_AGENT): 
 
 ### Tools
 

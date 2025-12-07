@@ -89,7 +89,6 @@ export default function CreateAgentPage() {
             // Simulation for UI effect (optional, can be removed)
             // await new Promise(resolve => setTimeout(resolve, 1000));
 
-            setIsSuccess(true);
             setGenerated(true); // Set generated to true on success
         } catch (error) {
             console.error("Error creating agent:", error);
